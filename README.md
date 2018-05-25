@@ -1,3 +1,3 @@
 # iOS
 
-#bitcoin price tracker
+bitcoin price ticker
